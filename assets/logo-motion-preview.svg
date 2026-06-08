@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<rect width="1200" height="720" fill="#f2f2f2"/>
+<rect x="86" y="78" width="1028" height="564" fill="#ffffff"/>
+<text x="126" y="154" font-family="Arial, sans-serif" font-size="28" fill="#777">Motion</text>
+<text x="126" y="360" font-family="Arial, sans-serif" font-size="92" letter-spacing="-7" fill="#050505">Logo Motion</text>
+<line x1="126" y1="420" x2="1074" y2="420" stroke="#111" stroke-width="2"/>
+<text x="126" y="520" font-family="Arial, sans-serif" font-size="28" fill="#777">Side London / 2026</text>
+</svg>

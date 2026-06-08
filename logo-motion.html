@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Logo Motion — Side London</title>
+  <style>
+    :root{--bg:#fff;--ink:#050505;--muted:#777;--soft:#f4f4f4;--max:1200px}
+    *{box-sizing:border-box}
+    body{margin:0;background:#fff;color:var(--ink);font-family:Inter,"Neue Montreal",Pretendard,"Noto Sans KR",Arial,sans-serif;letter-spacing:-.04em;-webkit-font-smoothing:antialiased}
+    a{color:inherit;text-decoration:none}
+    .page{width:min(var(--max),calc(100% - 48px));margin:0 auto;padding:18px 0 90px}
+    .top{height:60px;display:grid;grid-template-columns:1fr auto;align-items:start}
+    .wordmark{display:inline-flex;gap:20px;font-size:24px;line-height:1;letter-spacing:-.09em;font-weight:300}
+    .back{color:var(--muted);font-size:14px}
+    .hero{min-height:calc(100vh - 60px);display:grid;place-items:center;text-align:center}
+    h1{font-size:clamp(76px,10vw,136px);line-height:.9;letter-spacing:-.09em;font-weight:300;margin:0 0 22px}
+    p{color:var(--muted);font-size:18px;margin:0}
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header class="top">
+      <a class="wordmark" href="index.html"><span>Side</span><span>London</span></a>
+      <a class="back" href="index.html#applications">Back to Applications ↑</a>
+    </header>
+    <section class="hero">
+      <div>
+        <h1>Logo Motion</h1>
+        <p>Side London application detail page.</p>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

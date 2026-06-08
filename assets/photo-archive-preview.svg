@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<rect width="1200" height="720" fill="#f2f2f2"/>
+<rect x="90" y="80" width="470" height="260" fill="#d8d8d8"/>
+<rect x="640" y="80" width="470" height="260" fill="#cccccc"/>
+<rect x="90" y="395" width="470" height="240" fill="#c9c9c9"/>
+<rect x="640" y="395" width="470" height="240" fill="#dedede"/>
+<text x="90" y="675" font-family="Arial, sans-serif" font-size="32" letter-spacing="-1">Gallery Image / Photo Archive</text>
+</svg>
